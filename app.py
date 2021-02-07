@@ -17,7 +17,7 @@ st.set_page_config(page_title='Determining Feature Importance - Machine Learning
 st.title("Determining Feature Importance - Machine Learning App")
 st.header("Classification Edition")
 st.write("In this app I am using **Random Forest Classifier** and **Extra Trees Classifier** "
-         "to determine and plot the importance of features. It will help me select which"
+         "to determine and plot the importance of features. It will help me select which "
          "features to use in the final model.")
 
 
