@@ -15,6 +15,7 @@ st.set_page_config(page_title='Determining Feature Importance - Machine Learning
 ## Page Title and sub title
 ######################################
 st.title("Determining Feature Importance - Machine Learning App")
+st.write(**"Made by: [Asad Mahmood](https://www.linkedin.com/in/asadmahmoodmughal/)"**)
 st.header("Classification Edition")
 st.write("In this app I am using **Random Forest Classifier** and **Extra Trees Classifier** "
          "to determine and plot the importance of features. It will help me select which "
