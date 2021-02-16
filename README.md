@@ -8,6 +8,11 @@ A small demo of the App:
 
 ## App Functionality
 
+### Classification Edition
+In this app I am using Random Forest Classifier and Extra Trees Classifier to determine and plot the importance of features. It will help me select which features to use in the final model.
+
+### Regression Edition
+To be added soon..
 
 ## Reproducing this web app
 
