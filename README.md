@@ -6,6 +6,9 @@ A small demo of the App:
 
 ![Alt Text](https://github.com/asad-mahmood/featureSelectionApp/blob/main/ezgif.com-gif-maker.gif)
 
+## App Functionality
+
+
 ## Reproducing this web app
 
 To recreate this web app on your own computer, do the following.
