@@ -24,7 +24,6 @@ Download requirements.txt file
 
 ```
 wget https://raw.githubusercontent.com/asad-mahmood/featureSelectionApp/main/requirements.txt
-
 ```
 
 Pip install libraries
